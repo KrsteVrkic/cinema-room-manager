@@ -1,0 +1,28 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Cinema Room Manager/*
+!/Cinema Room Manager/task/
+/Cinema Room Manager/task/*
+!/Cinema Room Manager/task/src
+
+# Project exclude paths
+/Topics/Iterating over arrays/Alphabetical order/out/
+/Topics/Iterating over arrays/Alphabetical order/out/production/classes/
+/Topics/Iterating over arrays/Check if an array is sorted ascending/out/
+/Topics/Iterating over arrays/Check if an array is sorted ascending/out/production/classes/
+/Topics/Iterating over arrays/The maximum product of adjacent elements/out/
+/Topics/Iterating over arrays/The maximum product of adjacent elements/out/production/classes/
+/Topics/Multidimensional array/Cinema/out/
+/Topics/Multidimensional array/Cinema/out/production/classes/
+/Topics/Multidimensional array/Create cube/out/
+/Topics/Multidimensional array/Create cube/out/production/classes/
